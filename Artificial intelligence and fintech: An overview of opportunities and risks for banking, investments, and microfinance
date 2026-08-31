@@ -1,1 +1,48 @@
+# Introduction — Research Notes
 
+ 1. Main Idea
+AI is increasingly transforming the financial sector, making it more open, collaborative and data-driven.
+The growth of large datasets has increased the importance and demand for Machine Learning because ML systems can learn patterns from large amounts of data.
+
+ 2. AI → ML → Deep Learning
+* Artificial Intelligence (AI) — broader field concerned with machines performing tasks that normally require human intelligence.
+* Machine Learning (ML) — a subdiscipline of AI that learns patterns from data.
+* Deep Learning (DL)— a subdiscipline of ML using neural networks with multiple layers.
+
+Hierarchy:
+
+AI
+↓
+Machine Learning
+↓
+Deep Learning
+
+ 3. Examples of AI Development
+The introduction uses examples such as IBM Watson and Google AlphaGo to illustrate the development and increasing capabilities of AI.
+- IBM Watson
+Watson is presented as an AI/data-analytics platform capable of:
+* processing human language
+* analyzing large amounts of data
+* helping businesses
+* automating complex tasks
+
+- Google AlphaGo
+AlphaGo is presented as an example of the capabilities of deep learning and reinforcement learning.
+The paper discusses its training using a large collection of Go games and its combination of:
+* policy networks
+* value networks
+* reinforcement learning
+* Monte Carlo Tree Search (MCTS)
+
+MCTS — My Understanding
+MCTS is a decision-making/search technique that explores possible future moves and progressively focuses computational effort on promising paths.
+
+ 4. Why These Examples Matter
+The examples show how advances in AI, ML and deep learning have increased the ability of machines to:
+process large amounts of information → identify patterns → make predictions/decisions → perform complex tasks
+
+This development creates opportunities for applying AI to industries such as finance.
+
+5.Takeaway
+The introduction establishes the technological background for the paper.
+AI has developed rapidly, particularly with the growth of data, ML and deep learning. This creates opportunities for AI to be applied to financial services, which is the focus of the paper.
